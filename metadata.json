@@ -1,0 +1,6 @@
+{
+  "name": "Pain",
+  "description": "تطبيق Pain - خلفيات HD للهاتف خفيف وسريع وعالي الدقة مع تصنيفات متنوعة ومعاينة فورية وحفظ المفضلات وتعيين الخلفية بضغطة واحدة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
